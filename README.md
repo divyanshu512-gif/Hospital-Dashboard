@@ -35,8 +35,8 @@ Data Analyst | Power BI Enthusiast
 |---------|--------|--------|
 | ![Overview](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Overview%20page.png) | ![Patient](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Patient%20Page.png) | ![Doctor](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Doctor%20Page.png) |
 
-| Hospital | Finance |
-|----------|---------|
+| Information | Finance |
+|-------------|---------|
 | ![Hospital](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Information%20Page.png) | ![Finance](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Finance%20Page.png) |
 
 ## 📦 How to Use

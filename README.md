@@ -37,7 +37,7 @@ Data Analyst | Power BI Enthusiast
 
 | Hospital | Finance |
 |----------|---------|
-| ![Hospital](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Information%20Page.png) | ![Finance](Screenshots/Screenshot%202025-08-17%20013231.png) |
+| ![Hospital](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Information%20Page.png) | ![Finance](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Finance%20Page.png) |
 
 ## 📦 How to Use
 

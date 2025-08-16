@@ -21,7 +21,7 @@ This project visualizes and analyzes hospital data through a dynamic Power BI da
   - Overview Dashboard
   - Patient Dashboard
   - Doctor Dashboard
-  - Hospital Dashboard
+  - Information Dashboard
   - Finance Dashboard
 
 ## 🧑‍💻 Developed By
@@ -37,7 +37,7 @@ Data Analyst | Power BI Enthusiast
 
 | Hospital | Finance |
 |----------|---------|
-| ![Hospital](Screenshots/Screenshot%202025-08-17%20013153.png) | ![Finance](Screenshots/Screenshot%202025-08-17%20013231.png) |
+| ![Hospital](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Information%20Page.png) | ![Finance](Screenshots/Screenshot%202025-08-17%20013231.png) |
 
 ## 📦 How to Use
 

@@ -33,7 +33,7 @@ Data Analyst | Power BI Enthusiast
 
 | Overview | Patient | Doctor |
 |---------|--------|--------|
-| ![Overview] | ![Patient](Screenshots/Screenshot%202025-08-17%20013113.png) | ![Doctor](Screenshots/Screenshot%202025-08-17%20013136.png) |
+| ![Overview](https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/Screenshot%20Overview%20page.png) | ![Patient](Screenshots/Screenshot%202025-08-17%20013113.png) | ![Doctor](Screenshots/Screenshot%202025-08-17%20013136.png) |
 
 | Hospital | Finance |
 |----------|---------|

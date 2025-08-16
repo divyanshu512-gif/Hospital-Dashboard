@@ -16,7 +16,7 @@ This project visualizes and analyzes hospital data through a dynamic Power BI da
 
 ## 📁 Files Included
 
-- `Hospital_Analysis_Dashboard.pbit` – Power BI Template file.
+- `https://github.com/divyanshu512-gif/Hospital-Dashboard/blob/main/hospital.pbit` – Power BI Template file.
 - `Screenshots/` – A folder containing high-quality screenshots of the dashboards:
   - Overview Dashboard
   - Patient Dashboard

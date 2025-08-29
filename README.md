@@ -27,7 +27,7 @@ This project visualizes and analyzes hospital data through a dynamic Power BI da
 ## 🧑‍💻 Developed By
 
 **Divyanshu Singh**  
-Data Analyst | Power BI Enthusiast
+Data Analyst  Power BI Enthusiast
 
 ## 📷 Preview
 
@@ -53,8 +53,4 @@ Data Analyst | Power BI Enthusiast
 - Daily, monthly, and department-level breakdowns.
 - Scrollable panels and tooltip integration.
 - Realistic dummy data for demo purposes.
-
----
-
-> Feel free to fork, customize, and use this dashboard for learning or operational use cases. If you like this project, don't forget to ⭐ the repo!
 
